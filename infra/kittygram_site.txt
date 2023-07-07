@@ -1,0 +1,6 @@
+IP: 158.160.72.124;
+name_taski: https://mytasks.hopto.org;
+name_kittygram: https://kittygra.hopto.org;
+login: admin;
+password: NRjeSf;
+
