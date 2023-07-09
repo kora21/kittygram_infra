@@ -56,5 +56,5 @@ Nginx sudo systemctl start nginx
 Готово! Kittygram готов к использованию!
 
 
-**Автор: kora21**
+**Автор: Екатерина Тарасенко**
 
