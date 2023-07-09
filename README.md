@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ```sh
 python manage.py migrate
 ```
-Перед запуском WSGI-сервера измените строки в файле юнита, подставьте в 11 и 13 строки ваши пути до проекта. По умолчанию gunicorn использует следующий пути: 
+Перед запуском WSGI-сервера измените строки в файле юнита, подставьте ваши пути до проекта. По умолчанию gunicorn использует следующий пути: 
 
 ```sh
 WorkingDirectory=/home/yc-user/infra_sprint1/backend/
