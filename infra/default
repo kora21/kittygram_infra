@@ -1,5 +1,4 @@
 server {
-
     server_name 158.160.72.124 kitties.hopto.org;
     server_tokens off;
 
